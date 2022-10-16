@@ -8,7 +8,7 @@ I am keen on programming with a focus on:
 
 I am a fast learner and self-motivated person, interested in new technologies and development techniques. I am passionate about learning something new and self-development both in professional and personal areas 📖🧘
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kravchenmd)
+<!--![Github stats](https://github-readme-stats.vercel.app/api?username=kravchenmd)-->
 
 
 <!--
