@@ -3,8 +3,9 @@
 I'm a diligent and open-minded physicist, currently doing my PhD in particle physics 🔬
 
 I am keen on programming with a focus on:
-- Python (backend web, ML/Data science, scripting)
 - C/C++ (microcontrollers, simulation, scripting)
+- Python (ML/Data science, backend web, scripting)
+
 
 I am a fast learner and self-motivated person, interested in new technologies and development techniques. I am passionate about learning something new and self-development both in professional and personal areas 📖🧘
 
